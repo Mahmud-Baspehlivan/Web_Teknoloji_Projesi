@@ -1,0 +1,28 @@
+body {
+    background-image: url("../Pictures/Sehrim/25022013_7a33bd70-a275-40f5-a4e4-cc8d7278f016.jpg");
+}
+
+.navbar {
+    border-bottom: 3px #28a745 solid;
+}
+
+.carousel {
+    height: 93vh;
+    /*width:100vw;*/
+    object-fit: cover;
+}
+
+.carousel-inner img {
+    height: 93vh;
+    width: 100vw;
+    object-fit: cover;
+}
+
+.carousel-inner {
+    border-top: 3px #28a745 solid;
+    ;
+}
+
+.nav-link:hover {
+    color: whitesmoke!important;
+}
